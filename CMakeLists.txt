@@ -1,1 +1,1 @@
-idf_component_register(SRCS "q1main.c" INCLUDE_DIRS "")
+idf_component_register(SRCS "q2main.c" INCLUDE_DIRS "")
